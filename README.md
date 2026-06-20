@@ -1,4 +1,4 @@
-# Iris Insight Classifier 
+# Iris Flower Classifier 
 
 A machine learning project that predicts the species of Iris flowers using their measurements.
 
